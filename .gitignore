@@ -37,3 +37,5 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+Excercises/2Einführug diamonds.R
+Excercises/bikeshop.R
